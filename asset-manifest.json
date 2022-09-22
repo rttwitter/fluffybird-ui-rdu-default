@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ctatrdudefault/static/css/main.04b0c334.css",
+    "main.js": "/ctatrdudefault/static/js/main.e679814f.js",
+    "static/media/edge-icons-Regular.eot": "/ctatrdudefault/static/media/edge-icons-Regular.c032ab831fb174ba5386.eot",
+    "static/media/edge-icons-Regular.ttf": "/ctatrdudefault/static/media/edge-icons-Regular.bb3d8db0eac3127e85c3.ttf",
+    "static/media/edge-icons-Regular.woff": "/ctatrdudefault/static/media/edge-icons-Regular.c46c3f1a17158927f5d3.woff",
+    "static/media/spinner-rosetta-blue-32x32@2x.gif": "/ctatrdudefault/static/media/spinner-rosetta-blue-32x32@2x.707448add32f97d38b57.gif",
+    "static/media/spinner-rosetta-blue-26x26@2x.gif": "/ctatrdudefault/static/media/spinner-rosetta-blue-26x26@2x.fab0d764562e41438879.gif",
+    "index.html": "/ctatrdudefault/index.html",
+    "main.04b0c334.css.map": "/ctatrdudefault/static/css/main.04b0c334.css.map",
+    "main.e679814f.js.map": "/ctatrdudefault/static/js/main.e679814f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04b0c334.css",
+    "static/js/main.e679814f.js"
+  ]
+}
